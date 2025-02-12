@@ -41,6 +41,8 @@ pub use signed_packet::{SignedPacket, SignedPacketBuilder};
 
 // Rexports
 #[cfg(feature = "signed_packet")]
+pub use pubky_timestamp::Timestamp;
+#[cfg(feature = "signed_packet")]
 pub use simple_dns as dns;
 
 pub mod errors {
