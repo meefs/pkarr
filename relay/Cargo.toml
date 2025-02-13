@@ -1,11 +1,11 @@
 [package]
 name = "pkarr-relay"
-version = "0.2.0"
+version = "0.3.0"
 authors = ["Nuh <nuh@nuh.dev>"]
 edition = "2021"
 description = "Pkarr relay (https://pkarr.org/relays)"
 license = "MIT"
-repository = "https://git.pkarr.org"
+repository = "https://github.com/pubky/pkarr"
 keywords = ["pkarr", "relay", "mainline", "dht"]
 categories = ["network-programming"]
 
